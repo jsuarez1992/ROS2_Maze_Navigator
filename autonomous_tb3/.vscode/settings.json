@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jessadmin/autonomous_tb3_ws/install/autonomous_tb3/lib/python3.10/site-packages",
+        "/home/jessadmin/jetbot_ros/install/jetbot_ros/lib/python3.10/site-packages",
+        "/home/jessadmin/ros2_ws/build/actions_py",
+        "/home/jessadmin/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/jessadmin/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/jessadmin/ros2_ws/build/my_robot_controller",
+        "/home/jessadmin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jessadmin/autonomous_tb3_ws/install/autonomous_tb3/lib/python3.10/site-packages",
+        "/home/jessadmin/jetbot_ros/install/jetbot_ros/lib/python3.10/site-packages",
+        "/home/jessadmin/ros2_ws/build/actions_py",
+        "/home/jessadmin/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/jessadmin/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/jessadmin/ros2_ws/build/my_robot_controller",
+        "/home/jessadmin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
